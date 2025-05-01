@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: cicd-server-container
-          image: lichanyeok/cicdsource:a15fec4203b4a5fc9272b5a854e9904ec0a95aa7
+          image: lichanyeok/cicdsource:e555045cd433003fe1cd872abf221e79bf2b7787
           ports:
             - containerPort: 8080
